@@ -2,3 +2,12 @@
   position: absolute;
   background-color: blue;
 }
+#divbody {
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+img {
+  margin: 10% auto;
+  display: block;
+}
