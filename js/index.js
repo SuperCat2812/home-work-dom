@@ -10,5 +10,6 @@ a.onclick = function () {
   a.style.top = topy + "px";
   a.style.backgroundColor = "red";
   b.style.backgroundColor = "black";
+  b.style.border = "dashed white";
   c.src = "./img/img2.jfif";
 };
