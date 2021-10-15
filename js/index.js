@@ -10,5 +10,5 @@ a.onclick = function () {
   a.style.top = topy + "px";
   a.style.backgroundColor = "red";
   b.style.backgroundColor = "black";
-  c.src = "./img/b263620645009a452dececc41f606e549ff2adc7_00.jpg";
+  c.src = "./img/img2.jfif";
 };
